@@ -1,0 +1,22 @@
+ public class Person{
+ 	static Person uji = "氏";
+ 	static Person mei = "名";
+ 	FirstName firstname = new FirstName();
+ 	LastName lastname = new LastName();
+
+ 	public void getName(String s){
+
+
+ 	}
+ 		getFirstName
+ 		setFirstNmae
+ 		getLastName
+ 		setLastName
+
+ 	public void showName(String a){
+ 		System.out.println("氏: 名:");
+ 	}
+
+ 	public static void main(String[] args)
+ 		
+ }
